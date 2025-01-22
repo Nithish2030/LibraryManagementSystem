@@ -35,6 +35,11 @@ This project implements a simple **Library Management System** using **C#**. It 
   - Remove books by ISBN.
   - Search for books by title.
   - List all available books and their details.
+![Screenshot (6)](https://github.com/user-attachments/assets/dd71f23e-2896-44e3-8bc1-9c86ad61eb93)
+![Screenshot (7)](https://github.com/user-attachments/assets/2975a867-5190-4709-bdac-c6b563b5479e)
+
+
+
   
 ## Technologies Used:
 - **C#**
